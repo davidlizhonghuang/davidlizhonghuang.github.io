@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://davidlizhonghuang.github.io',
+  basePath: 'https://davidlizhonghuang.github.io/browser',
   supportedLocales: {
   "en-US": ""
 },
