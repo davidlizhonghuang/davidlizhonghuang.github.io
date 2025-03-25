@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://davidlizhonghuang.github.io/EmployeeUI',
+  basePath: 'https://davidlizhonghuang.github.io',
   supportedLocales: {
   "en-US": ""
 },
